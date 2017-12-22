@@ -1,0 +1,26 @@
+{
+  "name": "jscad-grommet",
+  "version": "1.0.0",
+  "description": "A parametric grommet Edit",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danmarshall/jscad-grommet.git"
+  },
+  "keywords": [
+    "jscad",
+    "3d"
+  ],
+  "author": "Dan Marshall",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danmarshall/jscad-grommet/issues"
+  },
+  "homepage": "https://github.com/danmarshall/jscad-grommet#readme",
+  "dependencies": {
+    "@jscad/csg": "^0.3.7"
+  }
+}

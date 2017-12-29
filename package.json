@@ -1,7 +1,7 @@
 {
   "name": "jscad-grommet",
   "version": "1.0.0",
-  "description": "A parametric grommet Edit",
+  "description": "A parametric grommet",
   "main": "index.js",
   "scripts": {
     "test": "node ./test.js"
